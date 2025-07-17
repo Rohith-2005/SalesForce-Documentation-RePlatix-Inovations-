@@ -15,6 +15,8 @@ RePlastix Innovations is a custom-built Salesforce CRM solution developed to aut
 **Rohith Sagar**  
 Trailhead Profile: https://www.salesforce.com/trailblazer/mulw0vwfkjuhx4nm51
 
+Project Report : https://drive.google.com/file/d/1zYDlBJqmk60nmv3KfT_uCskYOt5muw42/view?usp=sharing
+
 ---
 
 ## 🎯 Objectives
