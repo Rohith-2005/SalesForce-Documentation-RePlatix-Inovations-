@@ -54,17 +54,6 @@ Project Report : https://drive.google.com/file/d/1zYDlBJqmk60nmv3KfT_uCskYOt5muw
 | Apex Trigger Execution                   | ✅ Executed         |
 | Test Class Coverage                      | ✅ 100%             |
 
----
-
-## 📸 Screenshots
-
-> You can insert screenshots here (if applicable). Examples:
-- App Navigation and Tabs  
-- Object Page Layouts  
-- Flow Logic  
-- Trigger Execution  
-- Test Class Results  
-- Email Notification
 
 ---
 
