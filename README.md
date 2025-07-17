@@ -19,6 +19,12 @@ Project Report : https://drive.google.com/file/d/1zYDlBJqmk60nmv3KfT_uCskYOt5muw
 
 ---
 
+## 📽️ Demo Video
+
+🎥 https://drive.google.com/file/d/1G-4arFZsesVBmoF-RDNU0XTtZkoPs_Wb/view
+
+---
+
 ## 🎯 Objectives
 
 - Automate end-to-end recycling operations using Salesforce.
@@ -54,12 +60,6 @@ Project Report : https://drive.google.com/file/d/1zYDlBJqmk60nmv3KfT_uCskYOt5muw
 | Apex Trigger Execution                   | ✅ Executed         |
 | Test Class Coverage                      | ✅ 100%             |
 
-
----
-
-## 📽️ Demo Video
-
-🎥 https://drive.google.com/file/d/1G-4arFZsesVBmoF-RDNU0XTtZkoPs_Wb/view
 
 ---
 
